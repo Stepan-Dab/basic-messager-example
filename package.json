@@ -1,0 +1,27 @@
+{
+  "name": "basic-messager-example",
+  "version": "1.0.0",
+  "description": "Just simple example of my work",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stepan-Dab/basic-messager-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stepan-Dab/basic-messager-example/issues"
+  },
+  "homepage": "https://github.com/Stepan-Dab/basic-messager-example#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.14"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
+  }
+}
